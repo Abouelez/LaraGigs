@@ -29,6 +29,7 @@ edit ".env" and put your database name DB_DATABASE=Your databse name
 
 Open terminal and run 
 ```bash
+  php artisan migrate
   php artisan key:generate
   php artisan serve
 ```
