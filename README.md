@@ -1,7 +1,7 @@
 
 # LaraGigs | Laravel
 
-This is a simple website for jobs, you can see all avilabel jobs and you can create, edit, delete your jobs also 
+This is a simple website for jobs, you can see all available jobs and you can create, edit, delete your jobs also 
 ## Run Locally
 
 Clone the project
